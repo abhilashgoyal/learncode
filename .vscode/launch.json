@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiplyString",
+            "request": "launch",
+            "mainClass": "leetcode.facebook.MultiplyString",
+            "projectName": "learn"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestContinuousSubSeq",
+            "request": "launch",
+            "mainClass": "leetcode.facebook.LongestContinuousSubSeq",
+            "projectName": "learn"
+        }
+    ]
+}

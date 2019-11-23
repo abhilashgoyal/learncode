@@ -12,7 +12,7 @@ public class Permutation {
 		}
 	}
 
-	public static void main(String... o) {
+	public static void main(String[] args){
 		permutationOfString("", "abc");
 		System.out.println("#########################################");
 		permutationOfString("", "wxyz");
