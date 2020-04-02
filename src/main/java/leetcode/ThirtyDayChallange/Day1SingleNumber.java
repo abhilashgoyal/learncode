@@ -1,7 +1,7 @@
-package leetcode.TwentyOneDayChallange;
+package leetcode.ThirtyDayChallange;
 
 /**
- * These codes are part of Leetcode 21 day coding challenges
+ * These codes are part of Leetcode 30 day coding challenges
  * Link:  https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
  * https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3283/
  */

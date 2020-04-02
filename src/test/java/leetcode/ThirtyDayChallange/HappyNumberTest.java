@@ -1,15 +1,15 @@
-package leetcode.TwentyOneDayChallange;
+package leetcode.ThirtyDayChallange;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 public class HappyNumberTest {
-    HappyNumber happyNumber = new HappyNumber();
+    Day2HappyNumber happyNumber = new Day2HappyNumber();
 
     @Test
     public void isHappy() {
         Assert.assertTrue(happyNumber.isHappy(19));
         Assert.assertFalse(happyNumber.isHappy(20));
-        Assert.assertFalse(happyNumber.isHappy(1));
+        Assert.assertTrue(happyNumber.isHappy(1));
     }
 }

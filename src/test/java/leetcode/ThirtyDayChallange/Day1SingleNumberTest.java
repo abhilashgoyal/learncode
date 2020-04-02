@@ -1,4 +1,4 @@
-package leetcode.TwentyOneDayChallange;
+package leetcode.ThirtyDayChallange;
 
 import org.junit.Assert;
 import org.junit.Test;

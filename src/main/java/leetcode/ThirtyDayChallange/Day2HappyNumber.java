@@ -1,4 +1,4 @@
-package leetcode.TwentyOneDayChallange;
+package leetcode.ThirtyDayChallange;
 
 import java.util.HashSet;
 
@@ -6,7 +6,7 @@ import java.util.HashSet;
  * Week 1 Day 2 : https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/
  * Question: https://leetcode.com/problems/happy-number/
  */
-public class HappyNumber {
+public class Day2HappyNumber {
 
     public boolean isHappy(int n) {
         boolean result = false;
