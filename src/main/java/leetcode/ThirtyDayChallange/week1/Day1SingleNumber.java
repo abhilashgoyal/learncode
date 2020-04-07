@@ -1,4 +1,4 @@
-package leetcode.ThirtyDayChallange;
+package leetcode.ThirtyDayChallange.week1;
 
 /**
  * These codes are part of Leetcode 30 day coding challenges

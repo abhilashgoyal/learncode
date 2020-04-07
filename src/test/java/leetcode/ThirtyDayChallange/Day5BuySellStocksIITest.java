@@ -1,9 +1,8 @@
 package leetcode.ThirtyDayChallange;
 
+import leetcode.ThirtyDayChallange.week1.Day5BuySellStocksII;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class Day5BuySellStocksIITest {
 

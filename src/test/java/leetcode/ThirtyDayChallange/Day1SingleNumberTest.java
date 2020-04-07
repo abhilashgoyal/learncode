@@ -1,5 +1,6 @@
 package leetcode.ThirtyDayChallange;
 
+import leetcode.ThirtyDayChallange.week1.Day1SingleNumber;
 import org.junit.Assert;
 import org.junit.Test;
 

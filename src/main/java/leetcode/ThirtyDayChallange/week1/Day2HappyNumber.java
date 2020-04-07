@@ -1,4 +1,4 @@
-package leetcode.ThirtyDayChallange;
+package leetcode.ThirtyDayChallange.week1;
 
 import java.util.HashSet;
 
