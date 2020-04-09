@@ -1,10 +1,9 @@
 # learncode
 
-Started commiting solution to 30 Day Leetcode challange
+Started commiting solution to 30 Day Leetcode challenge.
 
 [30 Day Leetcode](https://leetcode.com/discuss/general-discussion/551411/30-Day-LeetCoding-Challenge)
 
-[Solutions](https://github.com/abhilashgoyal/learncode/tree/master/src/main/java/leetcode/TwentyOneDayChallange)
 
 Week 1:
   - Day 1: [Single Number](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week1/Day1SingleNumber.java)
