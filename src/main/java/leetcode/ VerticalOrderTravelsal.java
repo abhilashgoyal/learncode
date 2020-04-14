@@ -1,4 +1,4 @@
-package leetcode.facebook;
+package leetcode;
 
 /**
  * Definition for a binary tree node.
@@ -17,8 +17,8 @@ import java.util.stream.Collectors;
 class Location implements Comparable<Location> {
     class TreeNode {
         int val;
-        leetcode.facebook.TreeNode left;
-        leetcode.facebook.TreeNode right;
+        leetcode.TreeNode left;
+        leetcode.TreeNode right;
 
         TreeNode(int x) {
             val = x;

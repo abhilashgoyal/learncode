@@ -1,4 +1,4 @@
-package leetcode.facebook;
+package leetcode;
 
 class MultiplyString {
     public String multiply(String num1, String num2) {

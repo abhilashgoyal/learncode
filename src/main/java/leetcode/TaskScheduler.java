@@ -1,4 +1,4 @@
-package leetcode.facebook;
+package leetcode;
 
 import java.util.HashMap;
 import java.util.Map;

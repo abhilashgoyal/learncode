@@ -1,4 +1,4 @@
-package leetcode.facebook;
+package leetcode;
 
 class LongestContinuousSubSeq {
 
@@ -19,7 +19,7 @@ class LongestContinuousSubSeq {
         return maxSub;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         LongestContinuousSubSeq ob = new LongestContinuousSubSeq();
         int[] input1 = {1,3,5,4,7};
         int[] input2 = {2,2,2,2,2};
