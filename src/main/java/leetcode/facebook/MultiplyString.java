@@ -7,17 +7,17 @@ class MultiplyString {
         boolean isNegative = false;
 
         if (num1.charAt(0) == '-' && num2.charAt(0) == '-') {
-            num1 = num1.substring(1, num1.length());
-            num2 = num2.substring(1, num2.length());
+            num1 = num1.substring(1);
+            num2 = num2.substring(1);
         }
 
         if (num1.charAt(0) == '-') {
-            num1 = num1.substring(1, num1.length());
+            num1 = num1.substring(1);
             isNegative = true;
         }
 
         if (num2.charAt(0) == '-') {
-            num2 = num2.substring(1, num2.length());
+            num2 = num2.substring(1);
             isNegative = true;
         }
 
